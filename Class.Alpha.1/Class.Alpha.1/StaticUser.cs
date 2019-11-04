@@ -7,9 +7,8 @@ namespace Class.Alpha._1
         //private members
         private static string _id;
         private static string _pw;
-        private static string _note;
+        private static Note _note;
         private static string _catalog;
-        
         //public methods
         public static int SetId(string id)
         {
@@ -28,7 +27,7 @@ namespace Class.Alpha._1
             _pw = pw;
         }
         
-        public static int SetNote(string note)
+        public static int SetNote(Note note)
         {
             throw new System.NotImplementedException();
             _note = note;

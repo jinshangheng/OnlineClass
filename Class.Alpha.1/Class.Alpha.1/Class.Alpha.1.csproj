@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="Algorithm.cs" />
     <Compile Include="ErrorReader.cs" />
+    <Compile Include="Note.cs" />
     <Compile Include="StaticUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserNet.cs" />
